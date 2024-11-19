@@ -16,9 +16,12 @@ how to :ref:`installation` the project.
 Contents
 --------
 
-.. toctree:: :maxdepth: 3
-   :caption: Contents:   数学/index
-   :caption: Contents:   程序/index
-   :caption: Contents:   通信/index
+.. toctree:: 
+   :maxdepth: 2
+   
+    
+   数学/index
+   通信/index
+   程序/index
    usage
    api
