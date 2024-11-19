@@ -1,4 +1,4 @@
-Welcome to 端子 documentation!
+Welcome to Lumache's documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -15,12 +15,13 @@ how to :ref:`installation` the project.
 
 Contents
 --------
-   数学/index
+
    通信/index
    程序/index
-
+   
 .. toctree:: 
    :maxdepth: 2
    
    usage
    api
+   数学/index
