@@ -19,7 +19,14 @@ extensions = [
     'sphinx.ext.intersphinx',
     'recommonmark',
     'sphinx_markdown_tables',
+    "sphinx_comments"
 ]
+comments_config = {
+   "utterances": {
+      "repo": "naiveZhou/jellyfish.git",
+      "optional": "config",
+   }
+}
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
