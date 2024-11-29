@@ -21,5 +21,6 @@ Contents
    :caption: Contents:
    
    软件/index
+   数学/index
    usage
    api
